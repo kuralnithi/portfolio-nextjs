@@ -16,9 +16,9 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'CRM for Remy Tattoo Studio',
-        description: "As a Full Stack Developer, I spearheaded the development of a custom CRM system tailored for Remy Tattoo Studio. Leveraging Next.js for robust frontend, MongoDB for flexible data storage, and Prisma ORM for efficient database management, I ensured seamless performance. Integration of Node Mailer facilitated effective communication, while Vercel enabled smooth deployment. Next Auth provided robust security, and Redux managed state effectively. This comprehensive solution enhances client management, scheduling, and operational workflows, optimizing the studio's efficiency and customer satisfaction.",
-        tools: ['Next Js', 'MongoDB', 'Node Mailer', 'Vercel', 'Prisma ORM', 'Next Auth', 'Redux'],
+        name: 'VIBGYOR Intellect Scholarship Exam (VISE)',
+        description: "As a Full Stack Developer, I contributed to the development of the VIBGYOR Intellect Scholarship Exam (VISE) platform. I designed user interfaces, implemented APIs, and integrated the BillDesk payment gateway to facilitate seamless transactions. Leveraging React for the frontend, Node.js and Express.js for the backend, and PostgreSQL for data management, I delivered a scalable solution that allows students to apply for the entrance exam and manage their scholarship applications effectively.",
+        tools: ['React', 'Node.js', 'Express.js', 'PostgreSQL', 'BillDesk Payment Gateway'],
         role: 'Full Stack Developer',
         code: '',
         demo: '',
