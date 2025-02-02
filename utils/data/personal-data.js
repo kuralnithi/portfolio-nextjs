@@ -14,5 +14,5 @@ export const personalData = {
   // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   devUsername: "Kuralnithi P",
 
-  resume: "https://drive.google.com/file/d/12pa6UJVg37Gt9Y0s6FzpJlEGXU_TS7vj/view?usp=sharing"
+  resume: "https://docs.google.com/document/d/1iutyJvoVtOPrF5B6IABlKv0Iga7mvDUP/edit?usp=sharing&ouid=107468212808718925078&rtpof=true&sd=true"
 }

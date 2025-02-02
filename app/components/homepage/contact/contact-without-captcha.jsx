@@ -95,7 +95,7 @@ function ContactWithoutCaptcha() {
   return (
     <>
       {loading && <Loader />}
-      <div className="">
+      {/* <div className="">
         <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
           Contact with me
         </p>
@@ -189,7 +189,7 @@ function ContactWithoutCaptcha() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   );
 }
